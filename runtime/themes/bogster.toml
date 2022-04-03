@@ -95,3 +95,9 @@ bogster13 = "#131920"
 bogster14 = "#232d38"
 bogster15 = "#313f4e" 
 bogster16 = "#ABB2BF"
+
+"ui.explorer.file" = { fg = "#e5ded6" }
+"ui.explorer.dir" = { fg = "#59dcd8" }
+"ui.explorer.exe" = { fg = "#e5ded6" }
+"ui.explorer.focus" = { modifiers = ["reversed"] }
+"ui.explorer.unfocus" = { bg = "#313f4e" }
